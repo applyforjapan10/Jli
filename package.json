@@ -1,1 +1,0 @@
-{"description":"JLI Messenger chatbot — basic ManyChat-style version: instant reply + phone number collection","engines":{"node":">=18"},"main":"server.js","name":"jli-chatbot","scripts":{"start":"node server.js","test":"bash test.sh"},"version":"1.0.0"}
